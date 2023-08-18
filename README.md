@@ -18,6 +18,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Dev em Formação, gosto de ler, ouvir músicas e sou apaixonado por programção.
+Developer fullstack em Formação.
+Gosto de desafios que me façam pensar e sou apaixonado por programção.
 
 #### Email para contato: emersonrdodrigues2001@yahoo.com
